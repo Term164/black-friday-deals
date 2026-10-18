@@ -165,6 +165,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**GhostHunt**](https://unapologeticih.gumroad.com/l/sctuym) | Airtable database (Vol. 1 & 2) with 1900+ Ghost newsletters including titles, categories, descriptions, and member counts. | 50% OFF Lifetime Access (Coupon: `50GHOST`) | Nov 18 – Dec 15, 2025 |
 | [**WP SMS**](https://wp-sms-pro.com/) | WordPress plugin for sending SMS alerts, notifications, and marketing messages with 300+ gateway integrations. | 40% OFF Premium plans (Coupon: `BLACKFRIDAY40`) | Nov 24 – Dec 2, 2025 |
 | [**WP Statistics**](https://wp-statistics.com/) | Privacy-friendly WordPress analytics plugin for tracking visitors, traffic trends, and real-time insights without external services. | 40% OFF Premium plans (Coupon: `BLACKFRIDAY40`) | Nov 24 – Dec 2, 2025 |
+| [**Picmim**](https://picmim.com/?utm_source=blackfridaydeals&utm_campaign=annual50) | AI social media manager that learns your brand from your website, plans a week of on-brand posts, and publishes across Instagram, Facebook, LinkedIn, TikTok, X and more — approve posts with a swipe or let Autopilot handle it. | 50% OFF the first year of any annual plan (Coupon: `PICMIM50`) | Oct 18 – Dec 1, 2026 |
 
 ---
 
